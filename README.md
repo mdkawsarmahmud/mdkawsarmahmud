@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
-- 💬 Ask me about **HTML, CSS, BOOTHSTRAP, PHP, LARAVEL**
+- 💬 Ask me about **HTML, CSS, BOOTHSTRAP, js, PHP, LARAVEL**
 
 - 📫 How to reach me **skkawsar.bpi@gmail.com**
 
