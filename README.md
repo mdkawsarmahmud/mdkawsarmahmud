@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kawsar</h1>
-<h3 align="center"> backend developer from Bangladesh</h3>
+<h3 align="center"> Web developer from Bangladesh</h3>
 <img align="right" alt="coding_img"width="350"src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkawsarmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="mdkawsarmahmud" /> </p>
